@@ -4,7 +4,6 @@
           https://tlamhutto.github.io/window98/LandingPage/  
           ![alt text](https://github.com/TLAMHutto/window98/blob/main/windows98.png?raw=true) 
           https://tlamhutto.github.io/Coffee_Project/  
-          -HTML/CSS/JS/Jquery  
           ![alt text](https://github.com/TLAMHutto/Coffee_Project/blob/main/Coffee.png?raw=true) 
           https://tlamhutto.github.io/Mars/  
           ![alt text](https://github.com/TLAMHutto/Mars/blob/main/Mars.png?raw=true) 
