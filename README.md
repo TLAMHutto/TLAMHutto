@@ -9,7 +9,7 @@
           https://tlamhutto.github.io/Portfolio/threjsPort/  
           ![alt text](https://github.com/TLAMHutto/Portfolio/blob/main/Solar.png?raw=true) 
           https://tlamhutto.github.io/GalaxyThreeJs/dist/  
-          ![alt text](https://github.com/TLAMHutto/GalaxyThreeJs/blob/main/Galaxy.png?raw=true) 
+          ![alt text](https://github.com/TLAMHutto/GalaxyThreeJs/blob/main/galaxy.png?raw=true) 
           https://tlamhutto.github.io/ThreeJsPortal/dist/  
           ![alt text](https://github.com/TLAMHutto/ThreeJsPortal/blob/main/Portal.png?raw=true)  
           https://tlamhutto.github.io/LoremPortfolio/dist/  
