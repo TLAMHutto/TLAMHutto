@@ -1,8 +1,7 @@
 
 
 - 🔭 I’m currently working on ...  
-          https://tlamhutto.github.io/window98/LandingPage/  
-          ![alt text](https://github.com/TLAMHutto/window98/blob/main/windows98.png?raw=true) 
+          
           https://tlamhutto.github.io/Coffee_Project/  
           ![alt text](https://github.com/TLAMHutto/Coffee_Project/blob/main/Coffee.png?raw=true) 
           https://tlamhutto.github.io/Mars/  
